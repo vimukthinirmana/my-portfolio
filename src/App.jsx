@@ -9,9 +9,9 @@ function App() {
   return (
     <>
       
-      <p>
-        hi
-      </p>
+      <h1 class="text-3x1 font-bold underline text-blue">
+        Hello world!
+      </h1>
     </>
   )
 }
